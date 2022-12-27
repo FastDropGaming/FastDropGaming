@@ -64,7 +64,7 @@ Am meisten aber interessiert es mich wie gewissse programme funktionieren und wa
 **Email (Business)**
 
 <a href="mailto:business.fastdropg@gmail.com "><img src="https://img.shields.io/badge/Gmail-EB4436?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-# **Bald ( ca. Februar 2023 )**
+# **Bald ( ca. 2023 )**
 Discord Server: [**FastUnity**]
 
 Guilded server: [**FastUnity Guilded**]
