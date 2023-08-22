@@ -12,7 +12,7 @@
 
 
 # **Oh Hello** 👋
-Welcome to my Github profile Dear friend I hope you enjoy exploring my Projects.I am Francesco aka. FastDrop(Gaming) I'm 17 years old and have a big Interest in Development especially in Frontend. Here I will create my projects, release them and make them available for use use mostly under the [MIT License](https://choosealicense.com/licenses/mit/). All the projects I do are in my free time because I still go to school 4 days a week. I live in the state of Rhineland-Palatinate in Germany and have been to [Gamescom](https://www.gamescom.de/de) in Cologne twice. if you have any other gquestions about me or my Projects feel free to send me an email or contact me otherwise
+Welcome to my Github profile Dear friend I hope you enjoy exploring my Projects. I am Francesco aka. FastDrop(Gaming) I'm 17 years old and have a big Interest in Development especially in Frontend. Here I will create my projects, release them and make them available for use use mostly under the [MIT License](https://choosealicense.com/licenses/mit/). All the projects I do are in my free time because I still go to school 4 days a week. I live in the state of Rhineland-Palatinate in Germany and have been to [Gamescom](https://www.gamescom.de/de) in Cologne twice. if you have any other gquestions about me or my Projects feel free to send me an email or contact me otherwise
 
 # **Developement experience** 📌
 I am interested in web development as well as programming desktop applications.
