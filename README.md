@@ -44,10 +44,10 @@ But most of all I'm interested in how certain programs work and what's behind th
 
 # **Contact Me** 📫  
 
-<a href="mailto:business.fastdropg@gmail.com "><img src="https://img.shields.io/badge/Gmail-EB4436?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:francesco.fastdropgaming.de "><img src="https://img.shields.io/badge/Gmail-EB4436?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 # **Socials**
-[**All Links**](https://fastdropg.carrd.co/) or individually:
+[**All Links**](https://fastdropgaming.de/) or individually:
 
 <a href="https://twitter.com/FastDropG"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/FastDrop_Gaming"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
@@ -82,8 +82,8 @@ Guilded server: [**TBA**]
 - [ ] Start Learning Java
 - [ ] Social Media Links Website
   - [ ] Language Support
-    - [x] German (**Main Language**)
-    - [ ] English
+    - [ ] German (**Main Language**)
+    - [x] English
     - [ ] Spanish
 
 <details align="center">
