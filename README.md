@@ -12,17 +12,17 @@
 
 
 # **Oh Hello** 👋
-Welcome to my Github profile Dear friend I hope you enjoy exploring my Projects. I am Francesco aka. FastDrop(Gaming) I'm 17 years old and have a big Interest in Development especially in Frontend. Here I will create my projects, release them and make them available for use use mostly under the [MIT License](https://choosealicense.com/licenses/mit/). All the projects I do are in my free time because I still go to school 4 days a week. I live in the state of Rhineland-Palatinate in Germany and have been to [Gamescom](https://www.gamescom.de/de) in Cologne twice. if you have any other gquestions about me or my Projects feel free to send me an email or contact me otherwise
+Welcome to my Github profile Dear friend I hope you enjoy exploring my Projects. I am Francesco aka. FastDrop(Gaming) I'm 17 years old and have a big Interest in Development especially in Frontend. Here I will create my projects, release them and make them available for use use mostly under the [MIT License](https://choosealicense.com/licenses/mit/). All the projects I do are in my free time because I still go to school. I live in the state of Rhineland-Palatinate in Germany and have been to [Gamescom](https://www.gamescom.de/de) in Cologne twice. if you have any other questions about me or my Projects feel free to send me an email or contact me otherwise
 
 # **Developement experience** 📌
 I am interested in web development as well as programming desktop applications.
-But most of all I'm interested in how certain programs work and what's behind the process of developing a program, that's why I love Github because there are so many open source projects. I can and could already learn so many things because of all the projects that others have created.
+But most of all I'm interested in how certain programs work and what's behind the process of developing a program, that's why I love Github because there are so many open source projects. I can and could already learn so many things because of all the projects that others have created and take inspiration from them.
 
 # **My Skills** 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev//icons?i=js,html,css,vscode,github,discord,bots" />
+    <img src="https://skillicons.dev//icons?i=js,html,css,vscode,github,discord,bots,ps" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ But most of all I'm interested in how certain programs work and what's behind th
 #
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev//icons?i=js,bootstrap,ts,nodejs,bots" />
+    <img src="https://skillicons.dev//icons?i=js,bootstrap,ts,nodejs,bots,idea,java" />
   </a>
 </p>
 
