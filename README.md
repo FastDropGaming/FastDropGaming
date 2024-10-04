@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="" src=https://img.shields.io/github/stars/fastdropgaming?affiliations=OWNER%2CCOLLABORATOR&label=Stars&color=yellow&style=for-the-badge&logo=starz>
 <img alt="" src=https://komarev.com/ghpvc/?username=fastdropgaming&color=000000&style=for-the-badge&label=Profile+Views />
-<img alt="" src=https://img.shields.io/github/last-commit/fastdropgaming/readme.md?&style=for-the-badge&logo=github&color=000000>
+<img alt="" src=https://img.shields.io/github/last-commit/fastdropgaming/fastdropgaming.github.io?&style=for-the-badge&logo=github&color=000000>
 </p>
 
 <p align="center">
