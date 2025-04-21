@@ -12,7 +12,7 @@
 
 
 # **Oh Hello** 👋
-Welcome to my Github profile I hope you enjoy exploring my Projects. I am Francesco aka. FastDrop(Gaming) I'm 18 years old and have a big Interest in Development especially in Frontend. Here I will create my projects, release them and make them available for use mostly under the [MIT License](https://choosealicense.com/licenses/mit/). All the projects I do are in my free. I live in the state of Rhineland-Palatinate in Germany and have been to [Gamescom](https://www.gamescom.de/de) in Cologne twice. if you have any other questions about me or my Projects feel free to send me an email or contact me otherwise.
+Welcome to my Github profile I hope you enjoy exploring my Projects. I am Francesco aka. FastDrop(Gaming) I'm 19 years old and have a big Interest in Development especially in Frontend. Here I will create my projects, release them and make them available for use mostly under the [MIT License](https://choosealicense.com/licenses/mit/). All the projects I do are in my free. I live in the state of Rhineland-Palatinate in Germany and have been to [Gamescom](https://www.gamescom.de/de) in Cologne twice. if you have any other questions about me or my Projects feel free to send me an email or contact me otherwise.
 
 # **Developement experience** 📌
 I am interested in web development as well as programming desktop applications.
@@ -43,7 +43,7 @@ But most of all I'm interested in how certain programs work and what's behind th
 
 ## **Contact Me** 📫  
 
-<a href="mailto:francesco.fastdropgaming.de "><img src="https://img.shields.io/badge/EMail-EB4436?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:francesco@fastdropgaming.de "><img src="https://img.shields.io/badge/EMail-EB4436?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## [My Website](https://fastdropgaming.de/) 🌐
 
